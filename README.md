@@ -20,3 +20,11 @@ Python语言无需经过编译，快速实现想法，及时得到结果。作�
 3. 编码很重要的环节是思考，逃避思考的人真的不适合编码 
 4. 没有积累知识的意识，知识管理的通俗观点是能够积累并快速找到自己的知识
 5. 聪明是可以学习的，阅读牛人的文章和代码都是增加智慧的捷径
+
+### 参考资源
+
+1. [官方网站](https://www.python.org/)
+2. [Python标准库](https://docs.python.org/2/library/index.html#library-index)
+3. [Python语言参考](https://docs.python.org/2/reference/index.html#reference-index)
+4. [Python扩展](https://docs.python.org/2/extending/index.html#extending-index)
+5. [Python/C API](https://docs.python.org/2/c-api/index.html#c-api-index)
