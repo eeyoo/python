@@ -1,0 +1,23 @@
+系统环境：Ubuntu 14.04 Kylin(中国员工想到的点子？麒麟牌系统？)
+GCC 4.8.2
+Python 2.7.2
+
+安装科学计算三个关键扩展包：
+Numpy
+Scipy - 依赖Numpy
+Matplotlib - 依赖freetype和libpng-dev
+
+尝试过pip install packages 但是出现什么 ascii编码编译错误
+尝试过matplotlib从源码编译安装，报错！
+
+最后，求助于最常用的APT安装：
+sudo apt-get install python-numpy
+sudo apt-get install python-scipy
+sudo apt-get install python-matplotlib
+
+安装成功！
+喜欢折腾固然是好事，但是一味折腾完了最初的目的，就有点逃避现实的嫌疑！
+
+祝你学好Python编程，而不仅仅是安装，永远停留在搭建环境入门上。
+
+----------------------2014.10.26 家中---------------------
