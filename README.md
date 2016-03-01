@@ -28,3 +28,20 @@ Python语言无需经过编译，快速实现想法，及时得到结果。作�
 3. [Python语言参考](https://docs.python.org/2/reference/index.html#reference-index)
 4. [Python扩展](https://docs.python.org/2/extending/index.html#extending-index)
 5. [Python/C API](https://docs.python.org/2/c-api/index.html#c-api-index)
+
+### 补充
+关于`import`路径问题，使用以下代码可以查看python引用路径。
+
+```python
+'''python 3.4
+import sys
+
+print(sys.path)
+```
+
+可见python首先引用当前路径，其次是python系统路径。
+此外，`import`还可以引用自定义的模块文件（不能与系统路径下模块重名，否则报错）
+
+### Sublime Text 工具
+[Sublime Text](http://www.sublimetext.com/)
+[Package Control](https://packagecontrol.io/installation#st3)
