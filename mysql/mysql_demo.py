@@ -3,7 +3,7 @@ import mysql.connector
 
 # connecting to MySQL using connector/python
 cnx = mysql.connector.connect(user='root',password='root',host='127.0.0.1',
-                             port='3309',database='employees')
+                             port='3306',database='world')
 
 # query data from mysql database
 cursor = cnx.cursor()

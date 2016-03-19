@@ -17,7 +17,7 @@ Python语言无需经过编译，快速实现想法，及时得到结果。作�
 
 1. 自身基础不行，永远浮于表面，难见Python的乐趣所在
 2. 说到底对编程的热情，远远低于自己的预想，多数是一时兴起
-3. 编码很重要的环节是思考，逃避思考的人真的不适合编码 
+3. 编码很重要的环节是思考，逃避思考的人真的不适合编码
 4. 没有积累知识的意识，知识管理的通俗观点是能够积累并快速找到自己的知识
 5. 聪明是可以学习的，阅读牛人的文章和代码都是增加智慧的捷径
 
@@ -33,7 +33,7 @@ Python语言无需经过编译，快速实现想法，及时得到结果。作�
 关于`import`路径问题，使用以下代码可以查看python引用路径。
 
 ```python
-'''python 3.4
+'''python 3.4'''
 import sys
 
 print(sys.path)
@@ -45,3 +45,17 @@ print(sys.path)
 ### Sublime Text 工具
 [Sublime Text](http://www.sublimetext.com/)
 [Package Control](https://packagecontrol.io/installation#st3)
+
+### Atom
+[Atom](https://atom.io/) 号称21世纪黑客专用编辑器。
+
+
+### Python 课程
+来自[Coursera Python](https://www.coursera.org/specializations/python)
+- 入门
+- 数据结构
+- 网络编程
+- 数据库开发
+- 毕业项目（数据获取、处理、可视化）
+
+*课程收取一定费用*
